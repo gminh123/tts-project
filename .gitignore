@@ -1,0 +1,12 @@
+# Bỏ qua file nặng và không cần thiết
+__pycache__/
+checkpoints/
+.idea/
+venv/
+*.pt
+*.npy
+*.ckpt
+*.wav
+*.zip
+*.tar
+*.log
